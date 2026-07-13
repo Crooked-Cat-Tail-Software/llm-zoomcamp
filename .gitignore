@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+models
+03-orchestration/
+# Virtual environments
+.venv 
+.env 
+.envrc
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints*
+.ipynb_checkpoints/*
+
